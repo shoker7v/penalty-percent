@@ -27,8 +27,7 @@ let badTarif = [];
 let timeout;
 let timeoutTwo;
 
-//tarifInput.textContent = 'КК. ТП 7.23 RUB';
-
+//Получаем данные по тарифам
 function getTarifData() {
    fetch("./db/tarif.json").then((response) => response.json()).then((data) => {
       tarif = data;
@@ -41,6 +40,7 @@ function getBadTarifData() {
    })
 }
 
+//Найдем ставку по тарифу
 function findPercent() {
    tarifName = tarifInput.value;
    if (checkbox.checked === true) {
@@ -61,6 +61,7 @@ function findPercent() {
    penaltyPercentRateInput.textContent = penaltyPercentRate;
 }
 
+//Подсветим, надо ли проверить дату заявки
 function checkRate() {
    if (checkbox.checked == false) {
       tarifName = tarifInput.value;
@@ -83,6 +84,12 @@ function checkRate() {
    }
 }
 
+//Найдем ставку при чек-боксе
+function checked() {
+   penaltyPercentRateInput.textContent = 73;
+}
+
+//Сбросим все значения
 function reset() {
    correctContent();
    currentDeptInput.value = "";
@@ -95,10 +102,7 @@ function reset() {
    checkbox.checked = false;
 }
 
-function checked() {
-   penaltyPercentRateInput.textContent = 73;
-}
-
+//Покажем ставку из тарифа
 function showRate() {
    if (tarifInput.value == "" && checkbox.checked == false) {
       penaltyPercentRateInput.textContent = 0;
@@ -114,6 +118,7 @@ function showRate() {
    }
 }
 
+//Удалим пробелы, точки, запятые из сумм
 function deleteSpace(arg) {
    exceprions = [" ", "-", ",", '"'];
    arg = arg.toString();
@@ -127,6 +132,7 @@ function deleteSpace(arg) {
    arg = strTemp;
 }
 
+//Стили для ошибки
 function errorContent() {
    finalResult.style.opacity = 0;
    errorBox.style.opacity = 1;
@@ -136,6 +142,7 @@ function errorContent() {
    }
 }
 
+//Стили для правильного результата
 function correctContent() {
    finalResult.style.opacity = 1;
    errorBox.style.opacity = 0;
@@ -150,12 +157,14 @@ function correctContent() {
    checkRemind.style.borderBottom = "";
 }
 
+//Покажем ошибку
 function error() {
    errorContent();
    clearTimeout(timeout);
    timeout = setTimeout(correctContent, 5000);
 }
 
+//Сделаем все расчеты
 function calculateRefund() {
    if (currentDeptInput.value == "" || pastDeptInput.value == "" || percentWithoutPenaltyInput.value == "" || (tarifInput.value == "" && checkbox.checked == false)) {
       clearTimeout(timeout);
@@ -186,6 +195,8 @@ function calculateRefund() {
       penaltyPercentRateInput.textContent = penaltyPercentRate;
    }
 }
+
+//Стили для нажатия кнопок
 calculateButton.forEach(calculateButton => {
    calculateButton.addEventListener('click', function (event) {
       let x = event.clientX - event.target.offsetLeft;
@@ -199,6 +210,8 @@ calculateButton.forEach(calculateButton => {
       }, 1000);
    })
 })
+
+//Запустим все стартовые функции
 calculateRefundButton.addEventListener('click', calculateRefund);
 calculateRefundButton.addEventListener('click', checkRate);
 resetValues.addEventListener('click', reset);
@@ -206,6 +219,7 @@ checkbox.addEventListener('click', showRate);
 reset();
 getTarifData();
 getBadTarifData();
+
 // Tried to export json->text->text-file. Formating is ok, but couldn't export to needed folder.
 //
 //let txtprep = [];
