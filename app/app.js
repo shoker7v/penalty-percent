@@ -34,6 +34,7 @@ function getTarifData() {
    })
 }
 
+//Получаем данные по "плохим" тарифам с завышенной неустойкой, если заявка была до 1.7.2014
 function getBadTarifData() {
    fetch("./db/badTarif.json").then((response) => response.json()).then((data) => {
       badTarif = data;
