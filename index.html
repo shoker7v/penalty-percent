@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!--  <script src="app/FileSaver.js"></script>-->
+   <meta charset="UTF-8">
+   <!--   <meta http-equiv="Content-Security-Policy" content="script-src 'self'">-->
+   <link rel="stylesheet" href="./css/style.css">
+   <link href="./css/all.css" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+   <title>Неустойка</title>
+</head>
+
+<body>
+   <div class="section">
+      <div class="container">
+         <div class="header">
+            <p>Расчет неустойки</p>
+         </div>
+         <div class="content">
+            <div class="contentLine">
+               <div class="contentLineText"> Текущий долг </div>
+               <input type="text" class="contentInput currentDeptInput"> </div>
+            <div class="contentLine">
+               <div class="contentLineText"> Прошлый долг </div>
+               <input type="text" class="contentInput pastDeptInput"> </div>
+            <div class="contentLine">
+               <div class="contentLineText"> Прошлые проценты </div>
+               <input type="text" class="contentInput percentWithoutPenaltyInput"> </div>
+            <div class="contentLine">
+               <div class="contentLineText tarif"> Тариф </div>
+               <input type="text" placeholder="КК. ТП 7.27 RUB" class="contentInput tarifInput"> </div>
+               <div class="contentLine">
+               <div class="contentLineText"> Реальная ставка </div>
+               <div class="penaltyPercentResult">
+                  <div class="avgPercent"> 0 </div>
+               </div>
+            </div>
+            <div class="contentLine">
+               <div class="contentLineText"> Ставка с неустойкой </div>
+               <div class="penaltyPercentResult">
+                  <div class="penaltyPercentRateInput"> 0 </div>
+               </div>
+            </div>
+            <div class="contentLine checkRemind">
+               <div class="contentLineText"> До 01.07.2014  </div>
+               <div class="contentLineText secondBox">
+                  <input type="checkbox" class="contentInput checkbox"> </div>
+            </div>
+            <div class="contentLine wrapper">
+               <div class="finalResult">
+                  <div class="contentLineText"> Сумма к возврату </div>
+                  <div class="contentLineText secondBox amountRefund"> 0 </div>
+               </div>
+               <div class="contentLine errorBox">
+                  <div class="contentLineText errorSecondBox"> Проверь данные </div>
+               </div>
+            </div>
+            <div class="contentLineResult">
+               <button class="calculateButton resetValues"> Сбросить </button>
+               <button class="calculateButton calculateRefundButton"> Рассчитать </button>
+            </div>
+         </div>
+      </div>
+   </div>
+</body>
+<script src="app/app.js"></script>
+
+</html>

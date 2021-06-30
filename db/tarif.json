@@ -1,0 +1,774 @@
+[
+   {
+      "name": "КК. ТП 1.0 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.2 RUB",
+      "penaltyRate": "51.49"
+   },
+   {
+      "name": "КК. ТП 1.3 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.4 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.5 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.6 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.7 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.8 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.9 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.10 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.12 RUB",
+      "penaltyRate": "64.63"
+   },
+   {
+      "name": "КК. ТП 1.13 RUB",
+      "penaltyRate": "55.5"
+   },
+   {
+      "name": "КК. ТП 1.14 RUB",
+      "penaltyRate": "47.84"
+   },
+   {
+      "name": "КК. ТП 1.15 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.16 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.17 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.18 RUB",
+      "penaltyRate": "55.5"
+   },
+   {
+      "name": "КК. ТП 1.19 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 1.20 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 1.21 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 2.0 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 2.1 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 2.2 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 2.3 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 2.4 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 2.5 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 2.6 RUB",
+      "penaltyRate": "43.9"
+   },
+   {
+      "name": "КК. ТП 6.2 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 6.3 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 6.4 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 6.5 RUB",
+      "penaltyRate": "62.8"
+   },
+   {
+      "name": "КК. ТП 6.6 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 6.7 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 6.8 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 6.9 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 6.10 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 6.11 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 6.12 RUB",
+      "penaltyRate": "61.9"
+   },
+   {
+      "name": "КК. ТП 6.13 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 6.14 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 6.15 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 6.16 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 7.0 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.1 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 7.2 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 7.3 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.4 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.5 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.6 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.7 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.8 RUB",
+      "penaltyRate": "60.9"
+   },
+   {
+      "name": "КК. ТП 7.9 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.10 RUB",
+      "penaltyRate": "60.9"
+   },
+   {
+      "name": "КК. ТП 7.11 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 7.12 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 7.13 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.14 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.15 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.16 RUB",
+      "penaltyRate": "61.9"
+   },
+   {
+      "name": "КК. ТП 7.17 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.18 RUB",
+      "penaltyRate": "61.9"
+   },
+   {
+      "name": "КК. ТП 7.19 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.20 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.21 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.22 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.23 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.24 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.25 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.26 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.27 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.28 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.29 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.30 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.31 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.32 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.33 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.34 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.35 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.36 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.37 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.38 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.39 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.40 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.41 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.42 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.43 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.44 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.45 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.46 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 7.47 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 7.48 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 7.49 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 7.50 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 7.51 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.52 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.53 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.54 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.56 RUB",
+      "penaltyRate": "34"
+   },
+   {
+      "name": "КК. ТП 7.57 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.58 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.59 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.60 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 7.61 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 7.62 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 7.63 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 7.64 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.65 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.66 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 7.67 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 10.0 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 10.1 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 10.2 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 10.3 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 10.4 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 10.5 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 10.6 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.7 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.8 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.9 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.10 RUB",
+      "penaltyRate": "44.9"
+   },
+   {
+      "name": "КК. ТП 10.11 RUB",
+      "penaltyRate": "44.9"
+   },
+   {
+      "name": "КК. ТП 10.14 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.15 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 10.16 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.17 RUB",
+      "penaltyRate": "44.9"
+   },
+   {
+      "name": "КК. ТП 10.18 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 10.19 RUB",
+      "penaltyRate": "44"
+   },
+   {
+      "name": "КК. ТП 10.20 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.21 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.22 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.23 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.24 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.25 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.26 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.27 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.28 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 10.29 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 11.1 RUB",
+      "penaltyRate": "55.9"
+   },
+   {
+      "name": "КК. ТП 11.2 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 11.3 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 11.4 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 11.5 RUB",
+      "penaltyRate": "62.9"
+   },
+   {
+      "name": "КК. ТП 11.6 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 11.7 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 11.8 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 11.9 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 11.10 RUB",
+      "penaltyRate": "64.9"
+   },
+   {
+      "name": "КК. ТП 11.11 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 11.12 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 11.13 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 12.0 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 12.1 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 12.2 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 12.3 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 12.4 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 12.5 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 12.6 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 12.7 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 12.8 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 12.9 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.0 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 14.1 RUB",
+      "penaltyRate": "48.9"
+   },
+   {
+      "name": "КК. ТП 14.2 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 14.3 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 14.4 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 14.5 RUB",
+      "penaltyRate": "54.9"
+   },
+   {
+      "name": "КК. ТП 14.6 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.7 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.8 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.9 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.10 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 14.11 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.12 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.13 RUB",
+      "penaltyRate": "49"
+   },
+   {
+      "name": "КК. ТП 14.14 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.15 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.16 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 14.17 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 17.1 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 17.2 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 17.3 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 17.4 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 17.5 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 17.6 RUB",
+      "penaltyRate": "68.9"
+   },
+   {
+      "name": "КК. ТП 18.0 RUB",
+      "penaltyRate": "44.9"
+   },
+   {
+      "name": "КК. ТП 18.1 RUB",
+      "penaltyRate": "44.9"
+   },
+   {
+      "name": "КК. ТП 18.2 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 18.3 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "КК. ТП 18.4 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 18.5 RUB",
+      "penaltyRate": "51.9"
+   },
+   {
+      "name": "КК. ТП 18.6 RUB",
+      "penaltyRate": "44"
+   },
+   {
+      "name": "КК. ТП 18.7 RUB",
+      "penaltyRate": "58.9"
+   },
+   {
+      "name": "asd",
+      "penaltyRate": "64.9"
+   }
+]
